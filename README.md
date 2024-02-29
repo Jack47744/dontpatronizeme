@@ -4,7 +4,7 @@ NLP Coursework for classifying the text contains patronising and condescending l
 
 ## Contributors
 
-- Metis Sotangkur (ms922@ic.ac.uk)
+- Metis Sotangkur (ms922@ic.ac.uk, metis.sota@gmail.com)
 - Natthorn Suwannapasri (ns2423@ic.ac.uk)
 - Wutikorn Ratanapan (wr323@ic.ac.uk)
 
@@ -12,7 +12,7 @@ NLP Coursework for classifying the text contains patronising and condescending l
 
 While words like “poor-families” and ‘’homeless” can be directly considered a PCL, their absence does not mean a sentence is not PCL. Identifying PCL poses challenges to Natural Language Processing (NLP) due to the subjective nature of PCL.
 
-Inspired by SemEval 2022 competition (task 4), the goal of this research is to train a model to detect patronizing and condescending language that outperforms RoBERTa-baseline. The baseline achieved F1-scores of 0.48 on the official dev-set and 0.49 on the official test-set.
+Inspired by SemEval 2022 competition (task 4), the goal of this research is to train a model to detect patronizing and condescending language that outperforms RoBERTa-baseline. 
 
 
 ## DistilBERT with T5 paraphrasing
