@@ -30,7 +30,7 @@ Inspired by SemEval 2022 competition (task 4), the goal of this research is to t
 To set up your environment for the project, you will need to install `simpletransformers`.
 
 ```bash
-pip install -q simpletransformers
+pip install -q simpletransformers gdown 
 ```
 
 ## Results
