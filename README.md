@@ -32,6 +32,13 @@ To set up your environment for the project, you will need to install `simpletran
 ```bash
 pip install -q simpletransformers gdown 
 ```
+# Prediction Code
+
+To make predictions for dev and test data, run the following jupyter notebook:
+
+```bash
+code/00_predict.ipynb
+```
 
 ## Results
 
